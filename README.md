@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erfan
 - 👀 I’m interested in coding and game developing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning django web developing
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: erfan.rafezi80@gmail.com
 
