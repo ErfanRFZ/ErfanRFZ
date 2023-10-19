@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Erfan
-- 👀 I’m interested in coding and game developing
-- 🌱 I’m currently learning django web developing
-<!---- 💞️ I’m looking to collaborate on ...--->
+- 👀 Interested in coding and game developing
+- :computer: Currently at Full-stack developer position
+- 🌱 I’m currently learning docker and DevOps knowledge
+<!---- 💞️  collaboration invitation on ...--->s
 - 📫 How to reach me: erfan.rafezi80@gmail.com
 
 <!---
